@@ -1,7 +1,7 @@
 # Orga for Open Science Workshop
 
 ## Dates
-10. March 2017 (anticipated)
+{10}th March 2017 (anticipated)
 
 3-4 hours
 
