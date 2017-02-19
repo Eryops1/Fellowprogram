@@ -1,7 +1,7 @@
 # Orga for Open Science Workshop
 
 ## Dates
-[10]th March 2017 (anticipated)
+10th March 2017 (anticipated)
 
 3 hours
 
@@ -26,7 +26,7 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * Intro Fellow Program
 * My project (poster / webpage)
 
-### Presentation of possbilities at the MfN
+### Presentation of possibilities at the MfN
 * Coordinating project webpages (FB3)
 * Licence questions (FB3)
 * GitLabs introduction
@@ -37,23 +37,12 @@ Introduction of paticipants, short outline on the topics of the workshop:
 ### Discussion
 * How reproducibile are your results? Did you take any precautions on how to store data?
 * Where do you publish? Open Access Journals? The Leibniz Open Access publishing fund: easy and fast cost takeover.
-* Open peer review
+* Open peer review: who has experience, advantages and drawbacks? Opinions?
 * Wikipedia: ever written an article? Check out Plos Topic pages!
+* etc
 
-
-
-
-## Orga
-### Strategy museum
-Head of FB4 says ist mostly citizen science, but I should contact Jana Hoffmann (FB3) as she is working on open access
- --> FB3 has to be contacted for support on the rechnical aspects (data storage options at the MfN etc)
- --> contact Vogel for mueseums policy
-
-### Leibniz
-- Supports Open Access and is part and supports the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities
-- Offers publicationsfund for open access articles (restricted, check the numbers again)
-- Strategy restricted to open access
 
 ### Other
-- book a seminar room
-- accomodation costs for anyone (Daniel?) - - budget this year still not confirmed, only in February
+- book a seminar room (20th Feb)
+- accomodation costs for anyone?
+- prepare handout?
