@@ -1,11 +1,10 @@
 # Orga for Open Science Workshop
 
 ## Dates
-10th March 2017 (anticipated)
-
-3 hours
-
-inviting all PhD-students
+10th March 2017
+~ 3 hours
+10-13? Later?
+audience: phd-student + young scientists
 
 ## Program
 Guest speakers: Daniel, probably Falko Glöckler (someone from FB3)
@@ -24,7 +23,7 @@ Introduction of paticipants, short outline on the topics of the workshop:
 
 ### Short presentation of my project in the Fellow Program (15 min + 5 min questions)
 * Intro Fellow Program
-* My project (poster / webpage)
+* My project (poster / präsi)
 
 ### Presentation of possibilities at the MfN
 * Coordinating project webpages (FB3)
@@ -39,10 +38,12 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * Where do you publish? Open Access Journals? The Leibniz Open Access publishing fund: easy and fast cost takeover.
 * Open peer review: who has experience, advantages and drawbacks? Opinions?
 * Wikipedia: ever written an article? Check out Plos Topic pages!
-* etc
+* etc ?
 
 
 ### Other
 - book a seminar room (20th Feb)
 - accomodation costs for anyone?
-- prepare handout?
+- prepare handout (?) + aushänge
+- announcment via email 2 weeks ahead (27. 02.)
+- write jana hoffmann so she asks someone from FB3 to participate, maybe also herself
