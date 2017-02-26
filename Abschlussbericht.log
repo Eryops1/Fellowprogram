@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  26 FEB 2017 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.4)  26 FEB 2017 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -706,6 +706,12 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 90.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 90.
+
+Overfull \hbox (5.83723pt too wide) in paragraph at lines 92--93
+\OT1/cmr/m/n/10.95 schungs-be-reichs Wis-sens-kom-mu-ni-ka-ti-on und Wis-sens-f
+or-schung: katrin.vohland[AT]mfn-berlin.de,
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 97.
@@ -715,7 +721,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 97.
- [4]
+[4]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
  (./Abschlussbericht.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
@@ -736,7 +742,7 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Abschlussbericht.pdf (4 pages, 76538 bytes).
+Output written on Abschlussbericht.pdf (4 pages, 76420 bytes).
 PDF statistics:
  119 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
