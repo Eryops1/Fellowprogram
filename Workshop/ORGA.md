@@ -3,14 +3,14 @@
 ## Dates
 10th March 2017
 ~ 3 hours
-10-13? Later?
+10:00 - 13:00
+
 audience: phd-student + young scientists
 
 ## Program
-Guest speakers: Daniel, probably Falko Glöckler (someone from FB3)
-
 ### Welcome
 Introduction of paticipants, short outline on the topics of the workshop:
+
 * Inform about certain aspects of Open Science and why the should be of interest for scientists
 * Present possibilities offered by the Museum to support Open Science concepts
 * Show my project webpage as an example for opening up research and increasing visibility
@@ -32,7 +32,7 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * GitLabs introduction
 * Data Storage options
 
-### BREAK ###
+### ------ COFFEE BREAK ------ ###
 
 ### Discussion
 * How reproducibile are your results? Did you take any precautions on how to store data?
@@ -42,7 +42,7 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * etc ?
 
 
-### Other
+## TO DO
 - prepare poster
 - announcement via email 2 weeks ahead (27. 02.)
-- contact people (jana hoffmann, gregor hagedorn, johannes vogel, claudia göbel)
+- contact people (gregor hagedorn, johannes vogel, claudia göbel)
