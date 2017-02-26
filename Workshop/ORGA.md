@@ -22,6 +22,7 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * Collaborative writing tools?
 
 ### Short presentation of my project in the Fellow Program (15 min + 5 min questions)
+* [BBC story about reproducibility](http://www.bbc.com/news/science-environment-39054778?SThisFB)
 * Intro Fellow Program
 * My project (poster / präsi)
 
@@ -42,8 +43,6 @@ Introduction of paticipants, short outline on the topics of the workshop:
 
 
 ### Other
-- book a seminar room (20th Feb)
-- accomodation costs for anyone?
-- prepare handout (?) + aushänge
-- announcment via email 2 weeks ahead (27. 02.)
-- write jana hoffmann so she asks someone from FB3 to participate, maybe also herself
+- prepare poster
+- announcement via email 2 weeks ahead (27. 02.)
+- contact people (jana hoffmann, gregor hagedorn, johannes vogel, claudia göbel)
