@@ -1,0 +1,88 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: fp_poster_A0_vorlage_neu.indd
+
+PACKDATUM: 06.02.2017 23:22 Uhr
+Erstellungsdatum 06.02.2017
+Änderungsdatum: 06.02.2017
+
+AUFTRAGGEBER
+
+Firma: leomaria designbüro
+Ansprechpartner: Markus Büsges
+Adresse: 
+Liselotte-Herrmann-Straße 8
+10407 Berlin
+
+
+
+Telefon: 030 22 02 27 87
+Fax: 
+E-Mail: info@leomaria.de
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Ohne
+
+SCHRIFTARTEN
+5 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 2 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: GillSans; Typ: TrueType, Status: OK
+- Name: GillSans-Bold; Typ: TrueType, Status: OK
+- Name: Montserrat-Bold; Typ: OpenType TrueType, Status: unvollst.
+- Name: SourceSerifPro-Regular; Typ: OpenType TrueType, Status: unvollst.
+- Name: SourceSerifPro-Semibold; Typ: OpenType Type 1, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 6 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 0 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (EPSONDA101A)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-RGB
+Überfüllungsmodus: Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 841 mm x 1189 mm
+Papierabmessungen: 209,973 mm x 296,968 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. fp_poster_A0_vorlage_neu.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1624K
+2. GillSans.ttc; Typ: Schriftartendatei; Größe: 1192K
+3. SourceSerifPro-Semibold.otf; Typ: Schriftartendatei; Größe: 90K

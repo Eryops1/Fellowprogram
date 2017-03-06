@@ -26,13 +26,17 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * Intro Fellow Program
 * My project (poster / präsi)
 
-### Presentation of possibilities at the MfN
+### Presentation of possibilities at the MfN (?)
 * Coordinating project webpages (FB3)
 * Licence questions (FB3)
 * GitLabs introduction
 * Data Storage options
 
 ### ------ COFFEE BREAK ------ ###
+
+### Salon Fähig (20 min)
+Introduction by Ines Theileis, founder of the Salon Fähig. Public presentation aspects of science / Science Slam
+
 
 ### Discussion
 * How reproducibile are your results? Did you take any precautions on how to store data?
@@ -41,8 +45,3 @@ Introduction of paticipants, short outline on the topics of the workshop:
 * Wikipedia: ever written an article? Check out Plos Topic pages!
 * etc ?
 
-
-## TO DO
-- prepare poster
-- announcement via email 2 weeks ahead (27. 02.)
-- contact people (gregor hagedorn, johannes vogel, claudia göbel)
